@@ -1,0 +1,8 @@
+[package]
+
+name = "zmq"
+version = "0.0.1"
+authors = ["Doug Royal <douglasroyal@gmail.com>"]
+
+[dependencies]
+libc = ">=0.1.5"
